@@ -1,0 +1,13 @@
+#安装TXT文件中的所有东西--- pip install -r requierement.txt
+#创建超级管理员---python manage.py createsuperuser（会提示username，email，password，password（again））
+
+super
+密码zdq19940826
+
+virtualenv --no-site-packages -p Dpython3python.exe ttsxenv5  --- python版本 虚拟环境的名称
+
+启动虚拟环境--activate
+查看拥有的xx--pip list
+安装Django---pip install django==1.11
+
+创建django项目---django-admin startproject 项目名称
